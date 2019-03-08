@@ -3,9 +3,9 @@
 
 ## Introduction
 
-We have learned about BEM and SUIT CSS. Now it's time to practice what we learned by cloning the first tweet.
+We have learned about BEM and SUIT CSS. Now it's time to practice by cloning the first tweet.
 
-Jack Dorsey created in 2006. When it was ready to launch, he published the following:
+Jack Dorsey created Twitter in 2006. When it was ready to launch, he published:
 
 "just setting up my twttr"
 
