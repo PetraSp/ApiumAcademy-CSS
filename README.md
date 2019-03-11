@@ -34,9 +34,9 @@ Jack Dorsey created Twitter in 2006. When it was ready to launch, he published:
 	- date:              rgb(101, 116, 127)
 	- bottom text color: rgb(105, 120, 130)
 	- follow button:     rgb(85, 172, 238)
-	```
 
-	- The font is "Helvetica".
+    - the font is "Helvetica"
+	```
 
 ### Submission
 
@@ -48,7 +48,7 @@ git commit -m"done"
 git push origin master
 ```
 
-- Navigate to your repo and [create a Pull Request](https://help.github.com/articles/creating-a-pull-request/).
+- Navigate to your repo and create a Pull Request
 
 ### Starter Code
 
